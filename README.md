@@ -1,5 +1,6 @@
 # concentrate
-
+by panoskam\
+\
 Made with Bitmelo
 
 Source code: game.js\
